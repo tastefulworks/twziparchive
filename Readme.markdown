@@ -1,3 +1,5 @@
+**IMPORTANT:** TWZipArchive has been renamed and is now being maintained at [SSZipArchive](http://github.com/samsoffes/ssziparchive)
+
 # TWZipArchive
 
 TWZipArchive is a simple utility class for unzipping files based on [ZipArchive](http://code.google.com/p/ziparchive).
